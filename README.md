@@ -91,7 +91,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm **Salman Malkani**. I’m a CX Consultant on a mission to improve customer experience and help brands to win new customers and retain existing customers.
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Let's stay in touch! Feel free to connect with me on the following platform:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-malkani-cx-guy/)
 
